@@ -69,14 +69,6 @@ I'm a passionate developer based in **Pune, India**, who loves building things f
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajgaikwad2004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajgaikwad2004&layout=compact&theme=radical)
-
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-gaikwad-b28b70201/)
