@@ -26,7 +26,7 @@ I'm a passionate developer based in **Pune, India**, who loves building things f
 
 ---
 
-### 💼 [Portfolio (React)](https://github.com/surajgaikwad2004/portfolio-React-)
+### 💼 [Portfolio (React)](https://surajgaikwad2004.github.io/creative-portfolio/)
 > Personal developer portfolio built with React.
 
 - Showcases projects, skills, and contact info
