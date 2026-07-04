@@ -134,27 +134,6 @@ I'm a passionate developer based in **Pune, India**, who enjoys building real-wo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajgaikwad2004&show_icons=true&theme=tokyonight">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgaikwad2004&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgaikwad2004&layout=compact&theme=tokyonight">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=surajgaikwad2004&theme=algolia&margin-w=10&margin-h=10">
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
