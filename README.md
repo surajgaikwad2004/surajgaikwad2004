@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Suraj%20Gaikwad&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%">
 
-<img src="./assets/fifa-card.png" width="340" alt="Suraj Gaikwad FIFA Card">
+<p align="center">
+  <img src="./assets/fifa-card.png" width="340" alt="Suraj Gaikwad FIFA Card">
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+%26+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
