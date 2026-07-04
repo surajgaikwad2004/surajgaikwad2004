@@ -1,14 +1,17 @@
 <div align="center">
 
-# Hi there, I'm Suraj Gaikwad 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Suraj%20Gaikwad&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%">
 
 <img src="./assets/fifa-card.png" width="340" alt="Suraj Gaikwad FIFA Card">
 
-### 💻 Full Stack Developer | MCA Student | Problem Solver
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+%26+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
+</a>
 
 > *"We don't just sit around and wait for other people. We just make, and we do."* ⚛️
 
-<img src="https://komarev.com/ghpvc/?username=surajgaikwad2004&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=surajgaikwad2004&style=for-the-badge&color=6C63FF" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/surajgaikwad2004?style=for-the-badge&color=6C63FF&logo=github" alt="Followers" />
 
 </div>
 
@@ -16,14 +19,21 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate developer based in **Pune, India**, who enjoys building real-world web applications and solving programming challenges.
+```yaml
+name: Suraj Gaikwad
+location: Pune, India
+role: MCA Student & Full Stack Developer
+currently_learning: [MERN Stack, DSA, System Design]
+goal: Become a Software Engineer
+fun_fact: I turn coffee into code ☕➡️💻
+```
 
 - 🌍 **Location:** Pune, India
 - 🎓 MCA Student
 - 💻 Passionate about Web Development
 - 🚀 Currently learning MERN Stack & DSA
 - 🎯 Goal: Become a Software Engineer
-- 📫 Reach me on LinkedIn or GitHub — links below!
+- ⚡ Fun fact: I debug faster than I sleep
 
 ---
 
@@ -115,21 +125,28 @@ I'm a passionate developer based in **Pune, India**, who enjoys building real-wo
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,mongodb,mysql,php,python,git,github,vscode,postman&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajgaikwad2004&show_icons=true&theme=radical&hide_border=true">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgaikwad2004&theme=radical&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgaikwad2004&layout=compact&theme=radical&hide_border=true">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=surajgaikwad2004&theme=radical&margin-w=10&margin-h=10&no-frame=true">
 </p>
 
 ---
@@ -137,8 +154,18 @@ I'm a passionate developer based in **Pune, India**, who enjoys building real-wo
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgaikwad2004&theme=github-compact">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgaikwad2004&theme=redical&hide_border=true">
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/surajgaikwad2004/surajgaikwad2004/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+> ℹ️ To enable this, add the **GitHub Snake Action** to your profile repo (`.github/workflows/snake.yml`) — I can generate that workflow file for you if you'd like.
 
 ---
 
@@ -147,5 +174,7 @@ I'm a passionate developer based in **Pune, India**, who enjoys building real-wo
 ## ⭐ Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
 </div>
